@@ -19,6 +19,8 @@ This repository is organized around the full DARIC development lifecycle, includ
 - **Download tool manuals**   
   Firmware/image download tool installation, configuration, and troubleshooting.
 
+- **Frequently Asked Questions**  
+  The FAQ is intended to collect and reuse solutions to recurring development issues.
 ---
 
 ## Directory Structure & Descriptions
@@ -34,6 +36,9 @@ This repository is organized around the full DARIC development lifecycle, includ
 
 ### `04 Download Tool/`
  Download tool documentation, including installation/configuration, flashing steps, and common download failure handling.
+
+### `05 FAQ/`  
+Topic-based files (e.g., chip.md, evb.md, riscv-dev.md, download-tool.md)
 
 ---
 
